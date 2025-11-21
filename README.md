@@ -31,5 +31,14 @@ snake-game-java/
 ├── Gameplay.java     # Main game logic, graphics, and event handling
 ├── MyWindow.java     # JFrame setup and application entry point
 ├── README.md         # This documentation file
-│
 
+🎯 Game Controls
+↑ Arrow Up: Move snake upward
+
+↓ Arrow Down: Move snake downward
+
+← Arrow Left: Move snake left
+
+→ Arrow Right: Move snake right
+
+Spacebar: Restart game after game over
